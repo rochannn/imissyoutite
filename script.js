@@ -1,7 +1,7 @@
 const dialogue = [
-    {"interval": 0.5, "dialogue": "10pm na pala sheeeet", "delay": 0.5},
+    {"interval": 0.5, "dialogue": "11pm na pala sheeet", "delay": 0.5},
     {"interval": 0.5, "dialogue": "tulong!", "delay": 0.25},
-    {"interval": 1.5, "dialogue": "guuuurrwaaaaauuuhhhhhhhhhhhhhhhhh", "delay": 1.8},
+    {"interval": 1.5, "dialogue": "guuuurrwaaaaauuuhhhhhhhhhhhhh", "delay": 1.8},
     {"interval": 2.1, "dialogue": "di mapigilang mag-isip...", "delay": 2.5},
     {"interval": 1.2, "dialogue": "na baka sa tagal", "delay": 1.6},
     {"interval": 0, "dialogue": "mahulog ang loob mo sa ibaaaaaaaaaaaaaaaa :(", "delay": 2.5},
