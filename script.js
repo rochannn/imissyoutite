@@ -35,7 +35,7 @@ async function display(message, delay) {
     }
 }
 
-async function OrangeANDLemons() {
+async function tite() {
     for (item in dialogue) {
         if (Number(item) === 2) {
             display_wolf(0);
@@ -48,4 +48,4 @@ async function OrangeANDLemons() {
     }
 }
 
-OrangeANDLemons();
+tite();
